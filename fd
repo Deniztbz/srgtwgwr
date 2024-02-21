@@ -1,0 +1,2 @@
+sudo chmod 600 /etc/chainflip/keys/node_key_file
+history -c
